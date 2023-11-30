@@ -1,2 +1,2 @@
-# generating-realistic-faces
-Generating realistic looking faces with GAN
+# generating-flower-images
+Generating flower images with GAN
